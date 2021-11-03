@@ -1,0 +1,13 @@
+.App {
+  display: flex;
+}
+
+aside {
+  width: 300px;
+  background-color: #ddd;
+}
+
+main {
+  background-color: #ddd;
+  flex: 1;
+}
